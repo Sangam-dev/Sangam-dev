@@ -1,5 +1,58 @@
-# 💫 About Me:
-# Hey, I'm Sangam Parajuli 👋<br><br>Computer Engineering student obsessed with AI and automation.<br>I build things to understand how they work — then break them to understand them better.<br><br>---<br><br>## 🔭 What I'm Working On<br><br>- Building bots, automation scripts, and AI-powered tools<br>- Exploring how machine learning fits into real-world systems<br>- Turning "what if this existed?" into actual projects<br><br>---<br><br>## 🧠 What I'm Learning<br><br>- Machine Learning & Deep Learning fundamentals<br>- AI agents and workflow automation<br>- LangChain, PyTorch, LLM , SQL<br><br>---<br><br>## 🛠️ Tech I Work With<br><br>**Languages:** Python, C/C++, HTML, CSS, JS<br>**AI/ML:** scikit-learn, Numpy, Pandas, Matplotlib, PyTorch <br>**Tools:** Git, Linux, VS code, Opencode, Claude<br><br>---<br><br>## 📌 Projects<br><br>| Project | What it does |<br>|--------|--------------|<br>| [C++ trader | terminal based trading simulator |<br><br><br>> More on my repositories below ↓<br><br>---<br><br>## 🤝 Let's Collaborate<br><br>I'm actively looking for people to build with —<br>especially on AI tools, automation pipelines, or anything that shouldn't exist yet but should.<br><br>📬 Reach me at: [parajulis295@gmail.com]<br><br>---<br><br>*Currently exploring. Always building.*
+# 💫 About Me
+
+Hey, I'm **Sangam Parajuli** 👋  
+A Computer Engineering student obsessed with AI, automation, and building systems that actually do things.
+
+I build projects to understand how they work — then tear them apart to understand them even better.
+
+---
+
+## 🔭 What I'm Working On
+
+- Building AI tools, bots, and automation systems  
+- Exploring real-world applications of machine learning  
+- Creating projects from random “what if this existed?” ideas
+
+---
+
+## 🧠 Currently Learning
+
+- Machine Learning & Deep Learning fundamentals  
+- AI agents and workflow automation  
+- LangChain, PyTorch, LLMs, and SQL
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, C/C++, JavaScript, HTML, CSS  
+**AI/ML:** PyTorch, scikit-learn, NumPy, Pandas, Matplotlib  
+**Tools:** Git, Linux, VS Code, Opencode, Claude
+
+---
+
+## 📌 Projects
+
+| Project | Description |
+|----------|-------------|
+| **C++ Trader** | Terminal-based paper trading simulator built using core DSA concepts |
+
+> More projects available in my repositories ↓
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm looking to collaborate on:
+- AI tools  
+- Automation systems  
+- Experimental ideas that sound slightly unhinged but useful
+
+📬 **Email:** `parajulis295@gmail.com`
+
+---
+
+*"Currently exploring. Always building."*
 
 
 ## 🌐 Socials:
